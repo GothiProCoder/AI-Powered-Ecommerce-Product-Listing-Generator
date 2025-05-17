@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/github/stars/GothiProCoder/AI-Powered-Ecommerce-Product-Listing-Generator?style=social" alt="Stars">
   </a>
   <a href="https://github.com/GothiProCoder/AI-Powered-Ecommerce-Product-Listing-Generator/issues">
-    <img src="https://img.shields.io/github/issues/GothiProCoder/AI-Powered-Ecommerce-Product-Listing-Generator" alt="Issues">
-  </a>
+  <img src="https://img.shields.io/github/issues/GothiProCoder/AI-Powered-Ecommerce-Product-Listing-Generator?label=Issues" alt="Issues">
+</a>
   <a href="https://github.com/GothiProCoder/AI-Powered-Ecommerce-Product-Listing-Generator/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/GothiProCoder/AI-Powered-Ecommerce-Product-Listing-Generator" alt="License">
+    <img src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65dd9eb5aaca434fac4f1c34_License-MIT-blue.svg" alt="License">
   </a>
 </p>
 
