@@ -67,11 +67,11 @@
 <pre>
 AI-Powered-Ecommerce-Product-Listing-Generator/
 ├── LLAVA-Model.ipynb                 # Image understanding using LLAVA
-├── Mistral-Model.ipynb                # Product listing generation using Mistral
+├── Mistral-Model.ipynb               # Product listing generation using Mistral
 ├── Frontend-UI.py                    # Streamlit frontend
 ├── assets/
-│   └── demo.gif                       # Demonstration GIF
-└── README.md                          # Documentation
+│   └── demo.gif                      # Demonstration GIF
+└── README.md                         # Documentation
 </pre>
 
 <hr>
