@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI-Powered%20E-commerce%20Product%20Listing%20Generator&fontSize=50&fontAlignY=40&desc=Transform%20Images%20into%20SEO-Optimized%20Product%20Listings&descAlignY=55&descAlign=50" alt="Project Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI-Powered%20E-commerce%20Product%20Listing%20Generator&fontSize=30&fontAlignY=40&desc=Transform%20Images%20into%20SEO-Optimized%20Product%20Listings&descAlignY=55&descAlign=50" alt="Project Banner">
 </p>
 
 <!-- Badges -->
