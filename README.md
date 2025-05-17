@@ -66,7 +66,7 @@
 <h2>📁 Project Structure</h2>
 <pre>
 AI-Powered-Ecommerce-Product-Listing-Generator/
-├── LLAVA-Model.ipynb              # Image understanding using LLAVA
+├── LLAVA-Model.ipynb                 # Image understanding using LLAVA
 ├── Mistral-Model.ipynb                # Product listing generation using Mistral
 ├── Frontend-UI.py                    # Streamlit frontend
 ├── assets/
