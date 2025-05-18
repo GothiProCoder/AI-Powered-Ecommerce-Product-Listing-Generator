@@ -155,15 +155,13 @@ st.title("🛍️ AI-Powered E-Commerce Listing Generator")
 st.markdown("Upload product images to get AI-driven listings!")
 
 # Configure API endpoint with fallback options
-API_URL = os.getenv(
-    "LLAVA_API_URL",
-    st.secrets.get("LLAVA_API_URL", "ENTER-LLAVA-NGROK-API-URL")
-)
+API_URL = os.getenv("LLAVA_API_URL", "ENTER-LLAVA-NGROK-API-URL")
+
 
 # ─── Historical Chat Handling ────────────────────────────────────────────────
 
 # Check for existing chat ID in URL parameters
-current_query = st.query_params()
+current_query = st.query_params
 chat_id = current_query.get('chat_id', [None])[0]
 
 if chat_id and st.session_state.logged_in:
@@ -209,8 +207,7 @@ if st.button("Generate Product Listing", type="primary"):
             # Send request to AI API
             response = requests.post(
                 f"{API_URL}/analyze-product",
-                files=files_payload,
-                timeout=30  # Set timeout for API call
+                files=files_payload
             )
             response.raise_for_status()  # Raise exception for HTTP errors
             
